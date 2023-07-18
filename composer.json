@@ -1,5 +1,5 @@
 {
-    "name": "cyber-duck/silverstripe-seo",
+    "name": "violet88/silverstripe-seo",
     "description": "A SilverStripe module to optimise the Meta, crawling, indexing, and sharing of your website content",
     "type": "silverstripe-vendormodule",
     "homepage": "http://github.com/cyber-duck/silverstripe-seo",
@@ -7,6 +7,7 @@
         "silverstripe SEO",
         "silverstripe",
         "silverstripe 4",
+        "silverstripe 5",
         "search engine optimisation",
         "seo",
         "meta",
@@ -32,8 +33,8 @@
     },
     "autoload": {
         "psr-4": {
-            "CyberDuck\\SEO\\": "src/",
-            "CyberDuck\\SEO\\Tests\\": "tests/"
+            "Violet88\\SEO\\": "src/",
+            "Violet88\\SEO\\Tests\\": "tests/"
         }
     },
     "extra": {
