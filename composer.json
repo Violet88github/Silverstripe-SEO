@@ -33,8 +33,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Violet88\\SEO\\": "src/",
-            "Violet88\\SEO\\Tests\\": "tests/"
+            "CyberDuck\\SEO\\": "src/",
+            "CyberDuck\\SEO\\Tests\\": "tests/"
         }
     },
     "extra": {
